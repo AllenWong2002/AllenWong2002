@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllenWong2002
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C, Python
+- 🌱 I’m currently learning C/C++/C#, Python, JS, HTML, CSS, SQL, PHP, JAVA, Ｒ
 - 💞️ I’m looking to collaborate on 交友軟體
 - 📫 How to reach me 0910502290
 
